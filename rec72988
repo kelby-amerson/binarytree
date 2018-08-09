@@ -1,0 +1,23 @@
+Amerson_assignment3:
+total 140
+-rw-r--r-- 1 ugrad   7590 Jul 16 21:22 BinaryTree.cpp
+-rw-r--r-- 1 ugrad    937 Jul 16 21:10 BinaryTree.h
+drwxr-xr-x 2 ugrad   4096 Jul 18 22:42 buld
+-rw-r--r-- 1 ugrad     29 Jul 14 20:53 input.txt
+-rw-r--r-- 1 ugrad    924 Jul 11 20:37 ItemType.cpp
+-rw-r--r-- 1 ugrad    235 Jul 11 20:37 ItemType.h
+-rwxr-xr-x 1 ugrad 102091 Jul 18 22:42 main
+-rw-r--r-- 1 ugrad   3753 Jul 16 21:26 Main.cpp
+-rw-r--r-- 1 ugrad    465 Jul 11 20:37 Makefile
+-rw-r--r-- 1 ugrad     61 Jul 18 22:42 README.md
+-rw-r--r-- 1 ugrad      0 Jul 18 22:43 rec72988
+
+Amerson_assignment3/buld:
+total 200
+-rw-r--r-- 1 ugrad    86 Jul 18 22:42 BinaryTree.d
+-rw-r--r-- 1 ugrad 53744 Jul 18 22:42 BinaryTree.o
+-rw-r--r-- 1 ugrad    54 Jul 18 22:42 ItemType.d
+-rw-r--r-- 1 ugrad 37792 Jul 18 22:42 ItemType.o
+-rw-r--r-- 1 ugrad    74 Jul 18 22:42 Main.d
+-rw-r--r-- 1 ugrad 91400 Jul 18 22:42 Main.o
+/home/ugrads/amerson/Amerson_assignment3:/home/work/cs2720a
