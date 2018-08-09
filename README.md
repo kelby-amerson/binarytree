@@ -1,5 +1,7 @@
 Kelby Amerson
-811518784
+
+
+Simple program that uses Binary Tree algorithms in C++
 
 to make: make 
 to clean: make clean
